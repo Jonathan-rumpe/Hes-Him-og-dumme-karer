@@ -36,3 +36,7 @@ h1 {
     justify-content: center;
 }
 
+.peop {
+    display: flex;
+    justify-content: center;
+}
