@@ -1,3 +1,17 @@
+.Im{ 
+    height: 30vh;
+    width: 30vh;
+    font-size: 10vh;
+    display: flex;
+    justify-content: center;
+ }
+body{
+    background-color: pink;
+}
+h1{
+    font-size: 
+    500%
+}
 h1 {
     font-size: 500%;
 }
@@ -9,4 +23,3 @@ h1 {
 .header {
     background-color: grey;
 }
-
