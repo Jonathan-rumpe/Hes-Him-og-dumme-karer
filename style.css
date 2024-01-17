@@ -26,3 +26,12 @@ h1 {
 .header {
     background-color: grey;
 }
+
+.heart {
+    width: 300px;
+}
+
+.real {
+    display: flex;
+    justify-content: center;
+}
