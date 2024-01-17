@@ -1,9 +1,9 @@
 .Im{ 
-    height: 30vh;
-    width: 30vh;
-    font-size: 10vh;
+    
+    font-size: 15vh;
     display: flex;
     justify-content: center;
+    
  }
 body{
     background-color: pink;
