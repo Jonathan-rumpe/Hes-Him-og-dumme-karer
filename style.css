@@ -1,0 +1,59 @@
+.Im{ 
+    
+    font-size: 15vh;
+    display: flex;
+    justify-content: center;
+    
+ }
+body{
+    background-color: pink;
+}
+h1{
+    font-size: 
+    500%
+}
+h1 {
+    font-size: 500%;
+}
+
+
+.pics {
+    display: flex;
+    justify-content: center;
+}
+
+
+.header {
+    background-color: grey;
+}
+
+.heart {
+    width: 300px;
+}
+
+.real {
+    display: flex;
+    justify-content: center;
+}
+
+.peop {
+    display: flex;
+    justify-content: center;
+}
+
+
+.saul {
+    width: 300px;
+}
+
+.gman {
+    width: 300px;
+}
+
+.waltuh {
+    width: 300px;
+}
+
+.walt {
+    width: 300px;
+}
